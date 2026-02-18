@@ -1,5 +1,10 @@
 # attoLLM
 
+[![Open In Colab - llm_basics](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/proloy79/attoLLM/blob/main/notebooks/llm_basics.ipynb)
+**llm_basics**
+[![Open In Colab - llm_experiments](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/proloy79/attoLLM/blob/main/notebooks/llm_experiments.ipynb)
+**llm_experiments**
+
 ## Overview
 
 This repository implements a tiny GPT style language model step by step. It uses a src/ package layout and thin scripts that import from the `attollm` package. The work is organized into two notebooks: llm_basics and llm_experiments.
